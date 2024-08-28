@@ -34,7 +34,11 @@ button {
     font-size: 22px;
     cursor: pointer;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
    
+}
+button:hover {
+    opacity: 0.6 ;
 }
 ::placeholder {
     color: black;
